@@ -1,0 +1,31 @@
+# Executive Summary
+Employee attrition is a critical challenge for companies worldwide, leading to performance losses and associated costs. To address this issue, this project aims to identify employee satisfaction levels, dissatisfaction factors, and reasons for attrition within organizations. By understanding these factors, management can take action to reduce attrition rates.
+
+# Scope & Objectives
+Assess employee satisfaction and working conditions.
+Identify factors causing employee dissatisfaction with company policies and norms.
+Find areas where the company may be falling short.
+Determine the reasons for attrition.
+Find ways to reduce attrition within the organization.
+
+# Approach & Methodology
+Data provided by IBM on Kaggle was processed and cleaned. Classification algorithms were employed to predict attrition based on various independent variables, including gender, workplace distance, stock level, salary hikes, and more. Variable importance and probabilistic approaches were used to identify factors influencing attrition. Model performance was evaluated to select robust models.
+
+# Recommendations & Actionable Insights
+Recommendations include timely communication with employees to prevent attrition. Predictive models are linked to actionable insights, aiming to intervene in attrition situations effectively.
+
+# Project Overview
+Attrition is a universal issue impacting businesses, resulting in costs such as business disruption, hiring, and training. Identifying and minimizing staff attrition is crucial. Classification models can predict attrition, but human intervention is essential to address the underlying causes.
+
+Need for Study
+Employees are vital to an organization's success. This study identifies employee attitudes, dissatisfaction factors, and reasons for job changes. Management can use this information to reduce attrition and enhance overall company performance.
+
+Current Baseline & Business Mission
+The average attrition rate in the Analytics & Data Science Industry in India is 24.4% annually. Employees tend to stay for an average of 3.7 years.
+
+Problem Statement & Project Scope
+This report investigates factors like salary, growth opportunities, facilities, policies, and procedures that impact attrition levels. The study helps identify which employees are likely to leave the organization.
+Data Sources
+Data was sourced from IBM's employee survey, containing responses on attrition. The dataset includes information on employee satisfaction, income, seniority, and demographics.
+
+For the full project details and findings, please explore the project report and dataset on Kaggle: IBM HR Analytics Employee Attrition Dataset.
